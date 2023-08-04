@@ -1,0 +1,28 @@
+# Site settings
+title: Your Data Science Portfolio
+description: Showcase your data science projects and skills
+
+# Theme settings
+theme: jekyll-theme-minimal
+
+# Plugins
+plugins:
+  - jekyll-feed
+
+# Navigation
+nav:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects
+  - title: About
+    url: /about
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+
+# Customize your site further by adding more settings and content
